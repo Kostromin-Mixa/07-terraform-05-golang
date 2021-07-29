@@ -1,4 +1,4 @@
-# 07-terraform-05-golang
+# 07-terraform-05-golang my my my
 
 Задача 1.
 package main
